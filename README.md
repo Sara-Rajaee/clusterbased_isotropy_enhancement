@@ -2,6 +2,10 @@
 This is the official reposeitory for the [paper](https://aclanthology.org/2021.acl-short.73.pdf):\
 _A Cluster-based Approach for Improving Isotropy in Contextual Embedding Space_
 
+## Dataset
+The dataset used in the section 5.1 related to analyzing linguistic knowledge can be found [here](https://nlp.biu.ac.il/~ravfogs/resources/syntax_distillation/).
+
+
 ## Citation
 ```
 @inproceedings{rajaee-pilehvar-2021-cluster,
