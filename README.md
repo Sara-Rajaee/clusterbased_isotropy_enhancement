@@ -1,5 +1,5 @@
 # Cluster-based Isotropy Enhancement
-This is the official reposeitory for the [paper](https://aclanthology.org/2021.acl-short.73.pdf):\
+This is the official repository for the [paper](https://aclanthology.org/2021.acl-short.73.pdf):\
 _A Cluster-based Approach for Improving Isotropy in Contextual Embedding Space_
 
 <img src="image/word-embedding-distribution.JPG" alt="Figure 1" width="60%"/>
